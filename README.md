@@ -24,5 +24,12 @@
 
 ![firebase-2](https://github.com/Vsjee/Parcial-1/assets/88046033/17af6459-7ab5-4bcd-9282-75df0fe067f0)
 
+## workflow
+
+- this workflow display an echo message when pushing code into the main branch.
+
+![workflow](https://github.com/Vsjee/Parcial-1/assets/88046033/4694f5e3-79ef-4b4a-9598-84d13e463fce)
+
+
 
 
